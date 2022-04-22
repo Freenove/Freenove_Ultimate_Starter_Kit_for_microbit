@@ -1,6 +1,6 @@
-# Freenove Starter Kit for Micro:bit
+# Freenove Ultimate Starter Kit for Micro:bit
 
-**Freenove Starter Kit for Micro:bit**
+**Freenove Ultimate Starter Kit for Micro:bit**
 
 <img src='Picture/icon.png' width='50%'/>
 
