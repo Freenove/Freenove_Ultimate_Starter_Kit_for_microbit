@@ -1,5 +1,5 @@
 ######################################################
-Freenove_Ultimate_Starter_Kit_for_microbit
+Freenove Ultimate Starter Kit for microbit
 ######################################################
 
 FNK0045
@@ -46,37 +46,37 @@ FNK0045
    :numbered:
    :glob:
    
-   fnk0045/codes/tutorial/1_LED_matrix
-   fnk0045/codes/tutorial/2_Built-in_Button
-   fnk0045/codes/tutorial/3_LED
-   fnk0045/codes/tutorial/4_Button_and_LED
-   fnk0045/codes/tutorial/5_LED_Bar_Graph
-   fnk0045/codes/tutorial/6_PWM
-   fnk0045/codes/tutorial/7_RGBLED
-   fnk0045/codes/tutorial/8_Neopixel
-   fnk0045/codes/tutorial/9_Buzzer
-   fnk0045/codes/tutorial/10_Serial_Communication
-   fnk0045/codes/tutorial/11_Magnetometer
-   fnk0045/codes/tutorial/12_Accelerometer
-   fnk0045/codes/tutorial/13_Potentiometer
-   fnk0045/codes/tutorial/14_Potentiometer_and_LED
-   fnk0045/codes/tutorial/15_Light_Sensor
-   fnk0045/codes/tutorial/16_Temperature_Sensor
-   fnk0045/codes/tutorial/17_Joystick
-   fnk0045/codes/tutorial/18_74HC595_and_LED_Bar_Graph
-   fnk0045/codes/tutorial/19_74HC595_and_7-segment_display
-   fnk0045/codes/tutorial/20_LCD1602
-   fnk0045/codes/tutorial/21_Motor
-   fnk0045/codes/tutorial/22_Servo
-   fnk0045/codes/tutorial/23_Stepper_Motor
-   fnk0045/codes/tutorial/24_Hygrothermograph
-   fnk0045/codes/tutorial/25_Matrix_Keypad
-   fnk0045/codes/tutorial/26_Infrared_Motion_Sensor
-   fnk0045/codes/tutorial/27_Ultrasonic_Ranging
+   fnk0045/codes/tutorial/1_LED_matrix.rst
+   fnk0045/codes/tutorial/2_Built-in_Button.rst
+   fnk0045/codes/tutorial/3_LED.rst
+   fnk0045/codes/tutorial/4_Button_and_LED.rst
+   fnk0045/codes/tutorial/5_LED_Bar_Graph.rst
+   fnk0045/codes/tutorial/6_PWM.rst
+   fnk0045/codes/tutorial/7_RGBLED.rst
+   fnk0045/codes/tutorial/8_Neopixel.rst
+   fnk0045/codes/tutorial/9_Buzzer.rst
+   fnk0045/codes/tutorial/10_Serial_Communication.rst
+   fnk0045/codes/tutorial/11_Magnetometer.rst
+   fnk0045/codes/tutorial/12_Accelerometer.rst
+   fnk0045/codes/tutorial/13_Potentiometer.rst
+   fnk0045/codes/tutorial/14_Potentiometer_and_LED.rst
+   fnk0045/codes/tutorial/15_Light_Sensor.rst
+   fnk0045/codes/tutorial/16_Temperature_Sensor.rst
+   fnk0045/codes/tutorial/17_Joystick.rst
+   fnk0045/codes/tutorial/18_74HC595_and_LED_Bar_Graph.rst
+   fnk0045/codes/tutorial/19_74HC595_and_7-segment_display.rst
+   fnk0045/codes/tutorial/20_LCD1602.rst
+   fnk0045/codes/tutorial/21_Motor.rst
+   fnk0045/codes/tutorial/22_Servo.rst
+   fnk0045/codes/tutorial/23_Stepper_Motor.rst
+   fnk0045/codes/tutorial/24_Hygrothermograph.rst
+   fnk0045/codes/tutorial/25_Matrix_Keypad.rst
+   fnk0045/codes/tutorial/26_Infrared_Motion_Sensor.rst
+   fnk0045/codes/tutorial/27_Ultrasonic_Ranging.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: What's next?
    :glob:
 
-   fnk0045/codes/tutorial/What_s_Next
+   fnk0045/codes/tutorial/What_s_Next.rst
