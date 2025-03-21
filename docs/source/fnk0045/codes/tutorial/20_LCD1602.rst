@@ -4,7 +4,7 @@ Chapter LCD1602
 
 In this chapter, we will learn the LCD1602 display.
 
-Project 20.1 I2C LCD1602
+Project I2C LCD1602
 ***********************************
 
 This project realizes the display of the current ambient temperature on the LCD1602 display.

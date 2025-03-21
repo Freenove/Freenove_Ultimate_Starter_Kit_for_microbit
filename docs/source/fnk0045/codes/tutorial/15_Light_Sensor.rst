@@ -4,7 +4,7 @@ Chapter Light Sensor
 
 In this chapter, we will learn the micro:bit built-in light sensor and photoresistor.
 
-Project 15.1 Built-in Light Sensor
+Project Built-in Light Sensor
 ********************************************
 
 In this project, we use the micro:bit built-in light sensor to measure the brightness of light.

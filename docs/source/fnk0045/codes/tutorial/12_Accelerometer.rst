@@ -127,7 +127,7 @@ Reference
 
     Get the acceleration measurements in all axes at once, as a three-element tuple of integers ordered as X, Y, Z. By default the accelerometer is configured with a range of +/- 2g, so X, Y, and Z will be within the range of +/-2000mg.
 
-Project 12.2 Gradiometer
+Project Gradiometer
 *****************************************
 
 In this project, we will use the accelerometer to make a level instrument.

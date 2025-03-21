@@ -185,7 +185,7 @@ Reference
 
     map(8,0,10,0,100)=80.
 
-Project 7.2 Multicolored Light
+Project Multicolored Light
 ***************************************
 
 In this project, we will use an RGB LED to emit different colors.

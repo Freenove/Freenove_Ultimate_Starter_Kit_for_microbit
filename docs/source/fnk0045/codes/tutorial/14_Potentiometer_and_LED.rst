@@ -56,7 +56,7 @@ In this circuit, the port 1 and 2 of the potentiometer are respectively connecte
 .. |Chapter14_03| image:: ../_static/imgs/14_Potentiometer_and_LED/Chapter14_03.png
 .. |Chapter14_04| image:: ../_static/imgs/14_Potentiometer_and_LED/Chapter14_04.png
 
-:red:`P1 pin is connected to LED’s long pin (positive), and its short pin (negative) is connected to resistor.`
+:red:`P1 pin is connected to LED's long pin (positive), and its short pin (negative) is connected to resistor.`
 
 Block code
 ==========================
@@ -256,7 +256,7 @@ Read the analog voltage value of the P3 pin and convert it to the corresponding 
     :lines: 22-30
     :dedent:
 
-Project 14.3 Rainbow Light
+Project Rainbow Light
 ***************************************
 
 In this project, we use a potentiometer to control the RGB LED module.
@@ -385,3 +385,5 @@ In the for loop, the analog voltage of the potentiometer is read and converted t
     :language: python
     :lines: 21-29
     :dedent:
+
+.. include:: 14.2_Potentiometer_and_LED.rst

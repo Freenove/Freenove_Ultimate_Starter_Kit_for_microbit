@@ -148,7 +148,7 @@ Print data every 500ms.
     :lines: 6-7
     :dedent:
 
-Project 17.2 Showing Direction
+Project Showing Direction
 ******************************************
 
 This project shows the direction of the Joystick with arrows on the dot matrix.

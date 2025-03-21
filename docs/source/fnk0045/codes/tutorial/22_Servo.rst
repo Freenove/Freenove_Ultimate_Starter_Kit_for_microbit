@@ -168,7 +168,7 @@ In a 180-0 for loop, convert the value in the range 0-180 to the analog voltage 
     :lines: 9-11
     :dedent:
 
-Project 22.2 Knob
+Project Knob
 *********************************
 
 In this project, we will use a potentiometer to control the rotation angle of the Servo.
