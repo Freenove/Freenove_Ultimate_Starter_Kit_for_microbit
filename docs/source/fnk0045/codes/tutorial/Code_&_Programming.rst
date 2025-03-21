@@ -260,7 +260,7 @@ Copy "I2C_LCD1602_Class.py" and "DHT11_RW.py" from following path into "mu_code"
 +-------------+--------------------------------------------------+-------------+
 | File type   | Path                                             | File name   |
 +-------------+--------------------------------------------------+-------------+
-| Python file | .. /Projects/PythonLibrary	I2C_LCD1602_Class.py | DHT11_RW.py |
+| Python file | .. /Projects/PythonLibrary/I2C_LCD1602_Class.py  | DHT11_RW.py |
 +-------------+--------------------------------------------------+-------------+
 
 After pasting successfully, you can see them as below:

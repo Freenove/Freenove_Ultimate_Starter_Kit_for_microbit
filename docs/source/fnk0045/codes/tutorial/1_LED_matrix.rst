@@ -290,7 +290,7 @@ The code of this project, in a 0-100 for loop, scrolls through the cyclic number
 Reference
 -----------------------
 
-.. py:function:: display.scroll(value)	
+.. py:function:: display.scroll(value)
 
     Scrolls value horizontally on the display. If value is an integer or float it is first converted to a string using str().
 

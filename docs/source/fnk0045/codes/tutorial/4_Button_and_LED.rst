@@ -124,7 +124,7 @@ Reference
    :align: center
 
    * -  Block
-     -  Function 
+   * -  Function 
    
    * -  |Chapter04_14|
    * -  Read a digital (0 or 1) signal from a pin on the micro:bit board.
@@ -253,12 +253,12 @@ After the above operations done, the program will detect whether the button is r
 Reference
 -------------------------
 
-.. list-table:: 
+.. list-table::
    :width: 100%
    :align: center
 
    * -  Block
-     -  Function 
+   * -  Function 
    
    * -  |Chapter04_21|
    * -  Use an equal sign to make a variable store the number or string you set.

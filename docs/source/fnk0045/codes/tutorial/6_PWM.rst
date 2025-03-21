@@ -64,7 +64,7 @@ The P0 pin detects the button and the P1 pin controls the LED.
    * -  |Chapter06_01|
    * -  Hardware connection
         
-        :red:`The pin for the circuit is P0. The long pin (positive) of LED is connected to the resistor, `
+        :red:`The pin for the circuit is P0. The long pin (positive) of LED is connected to the resistor,`
         
         :red:`and the short pin (negative) to ground.`
 
@@ -158,7 +158,7 @@ Then from 500 to 0.
 Reference
 ----------------------------------
 
-.. py:function:: pin.write_analog(value)	
+.. py:function:: pin.write_analog(value)
     
     Output a PWM signal on the pin, with the duty cycle proportional to the provided value. The value may be either an integer or a floating point number between 0 (0% duty cycle) and 1023 (100% duty)..
     
