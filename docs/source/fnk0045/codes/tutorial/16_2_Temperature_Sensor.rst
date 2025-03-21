@@ -27,6 +27,8 @@ Component list
 |  |Chapter16_05|                                      |
 +------------------------------------------------------+
 
+.. |Chapter03_00| image:: ../_static/imgs/3_LED/Chapter03_00.png
+.. |Chapter03_03| image:: ../_static/imgs/3_LED/Chapter03_03.png
 .. |Chapter08_00| image:: ../_static/imgs/8_Neopixel/Chapter08_00.png
 .. |Chapter08_01| image:: ../_static/imgs/8_Neopixel/Chapter08_01.png
 .. |Chapter03_01| image:: ../_static/imgs/3_LED/Chapter03_01.png

@@ -122,4 +122,4 @@ Reference
 
     Use the display's LEDs in reverse-bias mode to sense the amount of light falling on the display, return an integer between 0 and 255 representing the light level. The larger the value, the brighter the light..
 
-.. include:: 15.2_Light_Sensor.rst
+.. include:: 15_2_Light_Sensor.rst

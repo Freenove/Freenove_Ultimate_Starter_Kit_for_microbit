@@ -386,4 +386,4 @@ In the for loop, the analog voltage of the potentiometer is read and converted t
     :lines: 21-29
     :dedent:
 
-.. include:: 14.2_Potentiometer_and_LED.rst
+.. include:: 14_2_Potentiometer_and_LED.rst

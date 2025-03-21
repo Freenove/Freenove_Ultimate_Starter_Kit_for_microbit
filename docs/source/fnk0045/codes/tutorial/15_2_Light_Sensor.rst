@@ -26,6 +26,8 @@ Component list
 | |Chapter13_00| |  |Chapter15_09|    |   |Chapter15_10|   |
 +----------------+--------------------+--------------------+
 
+.. |Chapter03_00| image:: ../_static/imgs/3_LED/Chapter03_00.png
+.. |Chapter03_03| image:: ../_static/imgs/3_LED/Chapter03_03.png
 .. |Chapter13_00| image:: ../_static/imgs/13_Potentiometer/Chapter13_00.png
 .. |Chapter14_00| image:: ../_static/imgs/14_Potentiometer_and_LED/Chapter14_00.png
 .. |Chapter15_08| image:: ../_static/imgs/15_Light_Sensor/Chapter15_08.png

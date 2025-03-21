@@ -113,4 +113,4 @@ Reference
 
     scrolls a string across the display
 
-.. include:: 16.2_Temperature_Sensor.rst
+.. include:: 16_2_Temperature_Sensor.rst
