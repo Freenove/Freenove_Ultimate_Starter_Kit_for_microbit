@@ -33,6 +33,8 @@ Component list
 .. |Chapter03_01| image:: ../_static/imgs/3_LED/Chapter03_01.png
 .. |Chapter03_02| image:: ../_static/imgs/3_LED/Chapter03_02.png
 .. |Chapter03_03| image:: ../_static/imgs/3_LED/Chapter03_03.png
+.. |Chapter14_18| image:: ../_static/imgs/14_Potentiometer_and_LED/Chapter14_18.png
+
 Circuit
 ==========================
 
